@@ -1,4 +1,4 @@
 host = 'localhost'
 user = 'root'
-password = 'prema'
+password = 'benciya'
 database = 'student_management'
